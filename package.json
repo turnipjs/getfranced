@@ -1,0 +1,19 @@
+{
+  "name": "getfranced",
+  "version": "1.0.0",
+  "description": "use this bot on your friends to TOTALLY FRANCE THEM",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turnipjs/getfranced.git"
+  },
+  "author": "Charles A Moonen",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/turnipjs/getfranced/issues"
+  },
+  "homepage": "https://github.com/turnipjs/getfranced#readme"
+}
