@@ -4,6 +4,7 @@
   "description": "use this bot on your friends to TOTALLY FRANCE THEM",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "node index.js"
   },
   "repository": {
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/turnipjs/getfranced/issues"
   },
-  "homepage": "https://github.com/turnipjs/getfranced#readme"
+  "homepage": "https://github.com/turnipjs/getfranced#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
