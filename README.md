@@ -1,4 +1,6 @@
-# getfranced
+# GET FRANCED
+Discord bot that reacts to targeted users with a random emoji from a corresponding list.
+
 ## Setup
 To add targeted users, list them in `targets.json` in an array like this:
 ```json
@@ -17,4 +19,5 @@ To add your bot information, make file called `auth.json`:
 
 ```
 
-Your bot needs 
+Your bot needs these permissions:
+![scopes: bot. bot permissions: read messages/view channels, add reactions](permissions.png)
