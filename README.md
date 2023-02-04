@@ -1,4 +1,5 @@
 # getfranced
+Discord bot that reacts to targeted users with a random emoji from a corresponding list.
 ## Setup
 To add targeted users, list them in `targets.json` in an array like this:
 ```json
